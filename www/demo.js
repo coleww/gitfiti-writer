@@ -1,5 +1,5 @@
 var gitfitiWriter = require('../')
 
 document.getElementById('input').addEventListener('keyup', function (e) {
-  document.getElementById('output').textContent = gitfitiWriter(document.getElementById('input').value)
+  document.getElementById('output').textContent = '[[' + gitfitiWriter(document.getElementById('input').value).join('],\n[') + ']]'
 })
