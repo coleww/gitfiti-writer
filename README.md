@@ -1,6 +1,14 @@
 gitfiti-writer
 ----------------
 
+a module for converting text into [gitfiti](https://github.com/gelstudios/gitfiti) format
+
+# try the [web app demo](http://coleww.github.io/gitfiti-writer/) probably
+
+### if yr working on something weird, npm might be yr thing:
+
+[![NPM](https://nodei.co/npm/gitfiti-writer.png)](https://nodei.co/npm/gitfiti-writer/)
+
 EXAMPLE: 
 
 ```
@@ -14,20 +22,4 @@ EXAMPLE:
 [2,0,2,0,2,2,2,0,2,2,2,0,2,0,2,0,2,2,2,0,2,2,2,0,0,2,0,0,2,2,2,0,2,0,2,0,2,2,2,0,0,0,2,0,0,0,2,0,2,2,2,2]]
 ```
 
-1. make a "font"
-2. ....4 X 7?
 
-
-
-pick w/h? 
-
-
-
-
-[![NPM](https://nodei.co/npm/gitfiti-writer.png)](https://nodei.co/npm/gitfiti-writer/)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Build Status](https://secure.travis-ci.org/YR_TRAVIS_USER_NAME/gitfiti-writer.png)](http://travis-ci.org/YR_TRAVIS_USER_NAME/gitfiti-writer)
-
-### EXAMPLE
-
-### API
